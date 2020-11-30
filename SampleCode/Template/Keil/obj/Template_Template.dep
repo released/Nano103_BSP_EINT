@@ -1,0 +1,213 @@
+Dependencies for Project 'Template', Target 'Template': (DO NOT MODIFY !)
+F (..\..\..\Library\Device\Nuvoton\Nano103\Source\system_Nano103.c)(0x5C87215B)(-c --cpu Cortex-M0 -D__MICROLIB -g -O2 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\lst\\" -I ..\..\..\Library\CMSIS\Include -I ..\..\..\Library\Device\Nuvoton\Nano103\Include -I ..\..\..\Library\StdDriver\inc-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="526"-o .\obj\system_nano103.o --list_dir ".\\lst\\" --list --omf_browse .\obj\system_nano103.crf --depend .\obj\system_nano103.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (..\..\..\Library\Device\Nuvoton\Nano103\Include\Nano103.h)(0x5C87215B)
+I (..\..\..\Library\CMSIS\Include\core_cm0.h)(0x5C87215B)
+I (..\..\..\Library\CMSIS\Include\core_cmInstr.h)(0x5C87215B)
+I (..\..\..\Library\CMSIS\Include\cmsis_armcc.h)(0x5C87215B)
+I (..\..\..\Library\CMSIS\Include\core_cmFunc.h)(0x5C87215B)
+I (..\..\..\Library\Device\Nuvoton\Nano103\Include\system_Nano103.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\sys.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\clk.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\acmp.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\adc.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\fmc.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\gpio.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\i2c.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\crc.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\pdma.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\pwm.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\rtc.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\sc.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\scuart.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\spi.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\timer.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\uart.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\wdt.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\wwdt.h)(0x5C87215B)
+F (..\..\..\Library\Device\Nuvoton\Nano103\Source\ARM\startup_Nano103.s)(0x5C87215B)(--cpu Cortex-M0 -g --16 --apcs=interwork --pd "__MICROLIB SETA 1"-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 526"--list .\lst\startup_nano103.lst --xref -o .\obj\startup_nano103.o --depend .\obj\startup_nano103.d)
+F (..\..\..\Library\StdDriver\src\retarget.c)(0x5C87215B)(-c --cpu Cortex-M0 -D__MICROLIB -g -O2 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\lst\\" -I ..\..\..\Library\CMSIS\Include -I ..\..\..\Library\Device\Nuvoton\Nano103\Include -I ..\..\..\Library\StdDriver\inc-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="526"-o .\obj\retarget.o --list_dir ".\\lst\\" --list --omf_browse .\obj\retarget.crf --depend .\obj\retarget.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599EDB3C)
+I (..\..\..\Library\Device\Nuvoton\Nano103\Include\Nano103.h)(0x5C87215B)
+I (..\..\..\Library\CMSIS\Include\core_cm0.h)(0x5C87215B)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (..\..\..\Library\CMSIS\Include\core_cmInstr.h)(0x5C87215B)
+I (..\..\..\Library\CMSIS\Include\cmsis_armcc.h)(0x5C87215B)
+I (..\..\..\Library\CMSIS\Include\core_cmFunc.h)(0x5C87215B)
+I (..\..\..\Library\Device\Nuvoton\Nano103\Include\system_Nano103.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\sys.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\clk.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\acmp.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\adc.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\fmc.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\gpio.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\i2c.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\crc.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\pdma.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\pwm.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\rtc.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\sc.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\scuart.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\spi.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\timer.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\uart.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\wdt.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\wwdt.h)(0x5C87215B)
+F (..\..\..\Library\StdDriver\src\clk.c)(0x5C87215B)(-c --cpu Cortex-M0 -D__MICROLIB -g -O2 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\lst\\" -I ..\..\..\Library\CMSIS\Include -I ..\..\..\Library\Device\Nuvoton\Nano103\Include -I ..\..\..\Library\StdDriver\inc-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="526"-o .\obj\clk.o --list_dir ".\\lst\\" --list --omf_browse .\obj\clk.crf --depend .\obj\clk.d)
+I (..\..\..\Library\Device\Nuvoton\Nano103\Include\Nano103.h)(0x5C87215B)
+I (..\..\..\Library\CMSIS\Include\core_cm0.h)(0x5C87215B)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (..\..\..\Library\CMSIS\Include\core_cmInstr.h)(0x5C87215B)
+I (..\..\..\Library\CMSIS\Include\cmsis_armcc.h)(0x5C87215B)
+I (..\..\..\Library\CMSIS\Include\core_cmFunc.h)(0x5C87215B)
+I (..\..\..\Library\Device\Nuvoton\Nano103\Include\system_Nano103.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\sys.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\clk.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\acmp.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\adc.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\fmc.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\gpio.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\i2c.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\crc.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\pdma.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\pwm.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\rtc.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\sc.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\scuart.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\spi.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\timer.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\uart.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\wdt.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\wwdt.h)(0x5C87215B)
+F (..\..\..\Library\StdDriver\src\sys.c)(0x5C87215B)(-c --cpu Cortex-M0 -D__MICROLIB -g -O2 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\lst\\" -I ..\..\..\Library\CMSIS\Include -I ..\..\..\Library\Device\Nuvoton\Nano103\Include -I ..\..\..\Library\StdDriver\inc-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="526"-o .\obj\sys.o --list_dir ".\\lst\\" --list --omf_browse .\obj\sys.crf --depend .\obj\sys.d)
+I (..\..\..\Library\Device\Nuvoton\Nano103\Include\Nano103.h)(0x5C87215B)
+I (..\..\..\Library\CMSIS\Include\core_cm0.h)(0x5C87215B)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (..\..\..\Library\CMSIS\Include\core_cmInstr.h)(0x5C87215B)
+I (..\..\..\Library\CMSIS\Include\cmsis_armcc.h)(0x5C87215B)
+I (..\..\..\Library\CMSIS\Include\core_cmFunc.h)(0x5C87215B)
+I (..\..\..\Library\Device\Nuvoton\Nano103\Include\system_Nano103.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\sys.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\clk.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\acmp.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\adc.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\fmc.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\gpio.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\i2c.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\crc.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\pdma.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\pwm.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\rtc.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\sc.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\scuart.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\spi.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\timer.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\uart.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\wdt.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\wwdt.h)(0x5C87215B)
+F (..\..\..\Library\StdDriver\src\uart.c)(0x5C87215B)(-c --cpu Cortex-M0 -D__MICROLIB -g -O2 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\lst\\" -I ..\..\..\Library\CMSIS\Include -I ..\..\..\Library\Device\Nuvoton\Nano103\Include -I ..\..\..\Library\StdDriver\inc-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="526"-o .\obj\uart.o --list_dir ".\\lst\\" --list --omf_browse .\obj\uart.crf --depend .\obj\uart.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599EDB3C)
+I (..\..\..\Library\Device\Nuvoton\Nano103\Include\Nano103.h)(0x5C87215B)
+I (..\..\..\Library\CMSIS\Include\core_cm0.h)(0x5C87215B)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (..\..\..\Library\CMSIS\Include\core_cmInstr.h)(0x5C87215B)
+I (..\..\..\Library\CMSIS\Include\cmsis_armcc.h)(0x5C87215B)
+I (..\..\..\Library\CMSIS\Include\core_cmFunc.h)(0x5C87215B)
+I (..\..\..\Library\Device\Nuvoton\Nano103\Include\system_Nano103.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\sys.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\clk.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\acmp.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\adc.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\fmc.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\gpio.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\i2c.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\crc.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\pdma.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\pwm.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\rtc.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\sc.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\scuart.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\spi.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\timer.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\uart.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\wdt.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\wwdt.h)(0x5C87215B)
+F (..\..\..\Library\StdDriver\src\gpio.c)(0x5C87215B)(-c --cpu Cortex-M0 -D__MICROLIB -g -O2 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\lst\\" -I ..\..\..\Library\CMSIS\Include -I ..\..\..\Library\Device\Nuvoton\Nano103\Include -I ..\..\..\Library\StdDriver\inc-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="526"-o .\obj\gpio.o --list_dir ".\\lst\\" --list --omf_browse .\obj\gpio.crf --depend .\obj\gpio.d)
+I (..\..\..\Library\Device\Nuvoton\Nano103\Include\Nano103.h)(0x5C87215B)
+I (..\..\..\Library\CMSIS\Include\core_cm0.h)(0x5C87215B)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (..\..\..\Library\CMSIS\Include\core_cmInstr.h)(0x5C87215B)
+I (..\..\..\Library\CMSIS\Include\cmsis_armcc.h)(0x5C87215B)
+I (..\..\..\Library\CMSIS\Include\core_cmFunc.h)(0x5C87215B)
+I (..\..\..\Library\Device\Nuvoton\Nano103\Include\system_Nano103.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\sys.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\clk.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\acmp.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\adc.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\fmc.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\gpio.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\i2c.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\crc.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\pdma.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\pwm.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\rtc.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\sc.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\scuart.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\spi.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\timer.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\uart.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\wdt.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\wwdt.h)(0x5C87215B)
+F (..\..\..\Library\StdDriver\src\timer.c)(0x5C87215B)(-c --cpu Cortex-M0 -D__MICROLIB -g -O2 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\lst\\" -I ..\..\..\Library\CMSIS\Include -I ..\..\..\Library\Device\Nuvoton\Nano103\Include -I ..\..\..\Library\StdDriver\inc-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="526"-o .\obj\timer.o --list_dir ".\\lst\\" --list --omf_browse .\obj\timer.crf --depend .\obj\timer.d)
+I (..\..\..\Library\Device\Nuvoton\Nano103\Include\Nano103.h)(0x5C87215B)
+I (..\..\..\Library\CMSIS\Include\core_cm0.h)(0x5C87215B)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (..\..\..\Library\CMSIS\Include\core_cmInstr.h)(0x5C87215B)
+I (..\..\..\Library\CMSIS\Include\cmsis_armcc.h)(0x5C87215B)
+I (..\..\..\Library\CMSIS\Include\core_cmFunc.h)(0x5C87215B)
+I (..\..\..\Library\Device\Nuvoton\Nano103\Include\system_Nano103.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\sys.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\clk.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\acmp.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\adc.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\fmc.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\gpio.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\i2c.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\crc.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\pdma.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\pwm.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\rtc.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\sc.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\scuart.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\spi.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\timer.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\uart.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\wdt.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\wwdt.h)(0x5C87215B)
+F (..\main.c)(0x5FC466B9)(-c --cpu Cortex-M0 -D__MICROLIB -g -O2 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\lst\\" -I ..\..\..\Library\CMSIS\Include -I ..\..\..\Library\Device\Nuvoton\Nano103\Include -I ..\..\..\Library\StdDriver\inc-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="526"-o .\obj\main.o --list_dir ".\\lst\\" --list --omf_browse .\obj\main.crf --depend .\obj\main.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599EDB3C)
+I (..\..\..\Library\Device\Nuvoton\Nano103\Include\Nano103.h)(0x5C87215B)
+I (..\..\..\Library\CMSIS\Include\core_cm0.h)(0x5C87215B)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (..\..\..\Library\CMSIS\Include\core_cmInstr.h)(0x5C87215B)
+I (..\..\..\Library\CMSIS\Include\cmsis_armcc.h)(0x5C87215B)
+I (..\..\..\Library\CMSIS\Include\core_cmFunc.h)(0x5C87215B)
+I (..\..\..\Library\Device\Nuvoton\Nano103\Include\system_Nano103.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\sys.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\clk.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\acmp.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\adc.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\fmc.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\gpio.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\i2c.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\crc.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\pdma.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\pwm.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\rtc.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\sc.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\scuart.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\spi.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\timer.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\uart.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\wdt.h)(0x5C87215B)
+I (..\..\..\Library\StdDriver\inc\wwdt.h)(0x5C87215B)
